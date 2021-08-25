@@ -1,0 +1,44 @@
+@charset "UTF-8";
+
+h1 {
+    color: brown;
+    text-align: center;    
+}
+
+body {
+    background-color: aliceblue;
+}
+
+header {
+    border-bottom: 1px solid;
+}
+
+h2 {
+    color: blue;
+    text-shadow: 1px 1px 3px;
+}
+
+form {
+    background-color: rgb(212, 134, 160, 0.7);
+    margin: 10px;
+}
+
+label {
+    color: blue;
+    font-weight: bold;
+}
+
+#said {
+    position: relative;
+    top: +155px;
+}
+
+textarea{
+    margin-left: 110px;
+    width: 70%;
+}
+
+footer {
+    background-color: orange;
+    border-radius: 5px;
+}
