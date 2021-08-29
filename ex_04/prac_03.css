@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+table {
+    border: 1px solid black;
+}
+
+th {
+    border: 1px solid black;
+}
+
+td {
+    border: 1px solid black;
+}
+
+.cth {
+    width: 100px;
+}
+
+#Brown {
+    background-color: #A52A2A;
+}
+
+#DeepSkyBlue {
+    background-color: #00BFFF;
+}
+
+#BlueViolet {
+    background-color: #BA2BE2;
+}
+
+#Gold {
+    background-color: #FFD700;
+}
+
+#DarkOrange {
+    background-color: #FF8C00;
+}
+
+#OliveDrab {
+    background-color: #6B8E23;
+}

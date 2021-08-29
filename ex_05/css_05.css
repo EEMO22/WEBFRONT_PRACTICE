@@ -1,23 +1,25 @@
 @charset "UTF-8";
 
 h1 {
-    text-align: center;    
+    text-align: center;  
+    margin-top: 0px;  
 }
 
 body {
-    background-color: aliceblue;
+    background-color: rosybrown;
+    margin: 0px;
 }
 
 header {
     background-color: beige;
+    padding-bottom: 10px;
 }
 
-nav {
-    background-color: bisque;
+#list {
+    display: block;
+    background-color: mediumaquamarine;
     float: left;
-    margin-bottom: 100%;
-    padding-bottom: 100%;
-    
+    padding-right: 30px;
 }
 
 p {
@@ -27,6 +29,12 @@ p {
 }
 
 footer {
+    display: block;
+    position: absolute;
+    width: 100%;
     background-color: orange;
+    font-size: 0.75em;
     border-radius: 5px;
+    padding-top: 15px;
+    padding-bottom: 15px;
 }
